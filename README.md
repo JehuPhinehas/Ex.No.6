@@ -16,6 +16,8 @@ To develop programs using AI-assisted programming, identify and debug errors, op
 * Microsoft Copilot
 
 **Languages:** Python, C, Java
+<img width="2752" height="1536" alt="Gemini_Generated_Image_wp75nuwp75nuwp75" src="https://github.com/user-attachments/assets/b4511cca-259a-4f93-b19c-d127fc9ad8d4" />
+
 
 ---
 
